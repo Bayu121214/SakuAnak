@@ -1,0 +1,6 @@
+{
+  "name": "SakuPelajar",
+  "description": "Aplikasi pengatur keuangan dan pencatat pengeluaran harian khusus pelajar dengan fitur set uang jajan harian, pencatatan transaksi, histori belanja, dan statistik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
